@@ -1,0 +1,45 @@
+body{box-sizing:border-box}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;}
+.main{
+width: 270px;
+height: 140px;
+border-radius: 5px;
+margin-top: 50px;}
+     .cap{background: linear-gradient(180deg,   #4568DC , #B06AB3)}
+     .spudi{ background: linear-gradient(180deg, #E52D27 , #000)}
+     .nata{background: linear-gradient(180deg, #000 , #61045F)}
+     .iman{background: linear-gradient(180deg, #E52D27 , #B31217)}
+.alias{
+    margin-right: 10px;
+    font-size: 12px;
+    text-align: end;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 8px;
+margin-bottom: 0px;}
+.realname{margin: 0px;
+    margin-right: 10px;
+font-size: 9px;
+color: rgba(255, 255,
+255, 0.5);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: end;}
+.shimg{
+    height: 182px;
+    position: relative;
+    bottom: 77px;
+margin-left: 10px;}
+
+.spudi img {
+    position: relative;
+    top: -35px;
+    
+}
+.
+
+
+
+
